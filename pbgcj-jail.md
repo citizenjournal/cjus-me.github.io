@@ -1,4 +1,4 @@
 ---
 title: Crawford County Jail Logs
-redirect_to: https://www.citizenjournal.us/crawford-county-jail-logs-5/
+redirect_to: https://www.citizenjournal.us/crawford-county-jail-logs-6/
 ---
