@@ -1,4 +1,4 @@
 ---
 title: Saline County Obituaries
-redirect_to: https://www.citizenjournal.us/saline-county-obituaries-12/
+redirect_to: https://www.citizenjournal.us/saline-county-obituaries-13/
 ---

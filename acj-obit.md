@@ -1,4 +1,4 @@
 ---
 title: Dickinson County Obituaries
-redirect_to: https://www.citizenjournal.us/dickinson-county-obituaries-12/
+redirect_to: https://www.citizenjournal.us/dickinson-county-obituaries-13/
 ---
