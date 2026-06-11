@@ -1,4 +1,4 @@
 ---
 title: McPherson County Obituaries
-redirect_to: https://www.citizenjournal.us/mcpherson-county-obituaries-13/
+redirect_to: https://www.citizenjournal.us/mcpherson-county-obituaries-14/
 ---
