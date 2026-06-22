@@ -1,4 +1,4 @@
 ---
 title: Ellis County Obituaries
-redirect_to: https://www.citizenjournal.us/ellis-county-obituaries-18/
+redirect_to: https://www.citizenjournal.us/ellis-county-obituaries-19/
 ---

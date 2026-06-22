@@ -1,4 +1,4 @@
 ---
 title: Reno County Obituaries
-redirect_to: https://www.citizenjournal.us/reno-county-obituaries-19/
+redirect_to: https://www.citizenjournal.us/reno-county-obituaries-20/
 ---
