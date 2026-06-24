@@ -1,4 +1,4 @@
 ---
 title: Reno County Jail Logs
-redirect_to: https://www.citizenjournal.us/reno-county-jail-logs-2/
+redirect_to: https://www.citizenjournal.us/reno-county-jail-logs-22/
 ---
