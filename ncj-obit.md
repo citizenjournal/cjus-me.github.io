@@ -1,4 +1,4 @@
 ---
 title: Harvey County Obituaries
-redirect_to: https://www.citizenjournal.us/harvey-county-obituaries-26/
+redirect_to: https://www.citizenjournal.us/harvey-county-obituaries-27/
 ---
