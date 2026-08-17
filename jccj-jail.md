@@ -1,4 +1,4 @@
 ---
 title: Geary County Jail Logs
-redirect_to: https://www.citizenjournal.us/geary-county-jail-logs-12/
+redirect_to: https://www.citizenjournal.us/geary-county-jail-logs-13/
 ---
