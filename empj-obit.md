@@ -1,4 +1,4 @@
 ---
 title: Lyon County Obituaries
-redirect_to: https://www.citizenjournal.us/lyon-county-obituaries-60/
+redirect_to: https://www.citizenjournal.us/lyon-county-obituaries-61/
 ---
