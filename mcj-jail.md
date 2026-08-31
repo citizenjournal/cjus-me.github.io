@@ -1,4 +1,4 @@
 ---
 title: McPherson County Jail Logs
-redirect_to: https://www.citizenjournal.us/mcpherson-county-jail-logs-5/
+redirect_to: https://www.citizenjournal.us/mcpherson-county-jail-logs-6/
 ---
