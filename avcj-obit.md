@@ -1,4 +1,4 @@
 ---
 title: Ark Valley Obituaries
-redirect_to: https://www.citizenjournal.us/ark-valley-obituaries-75/
+redirect_to: https://www.citizenjournal.us/ark-valley-obituaries-76/
 ---
