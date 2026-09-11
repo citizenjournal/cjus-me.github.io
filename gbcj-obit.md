@@ -1,4 +1,4 @@
 ---
 title: Barton County Obituaries
-redirect_to: https://www.citizenjournal.us/barton-county-obituaries-75/
+redirect_to: https://www.citizenjournal.us/barton-county-obituaries-76/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Ford County Obituaries
-redirect_to: https://www.citizenjournal.us/ford-county-obituaries-71/
+redirect_to: https://www.citizenjournal.us/ford-county-obituaries-72/
 ---
