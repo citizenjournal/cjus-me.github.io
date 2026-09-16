@@ -1,4 +1,4 @@
 ---
 title: Dickinson County Jail Logs
-redirect_to: https://www.citizenjournal.us/dickinson-county-jail-logs-3/
+redirect_to: https://www.citizenjournal.us/dickinson-county-jail-logs-4/
 ---
