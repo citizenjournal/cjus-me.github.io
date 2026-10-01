@@ -1,4 +1,4 @@
 ---
 title: Crawford County Obituaries
-redirect_to: https://www.citizenjournal.us/crawford-county-obituaries-87/
+redirect_to: https://www.citizenjournal.us/crawford-county-obituaries-88/
 ---
