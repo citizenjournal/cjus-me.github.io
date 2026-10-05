@@ -1,4 +1,4 @@
 ---
 title: Finney County Obituaries
-redirect_to: https://www.citizenjournal.us/finney-county-obituaries-86/
+redirect_to: https://www.citizenjournal.us/finney-county-obituaries-87/
 ---
