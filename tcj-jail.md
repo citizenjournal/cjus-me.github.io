@@ -1,4 +1,4 @@
 ---
 title: Shawnee County Jail Logs
-redirect_to: https://www.citizenjournal.us/shawnee-county-jail-logs-14/
+redirect_to: https://www.citizenjournal.us/shawnee-county-jail-logs-15/
 ---
