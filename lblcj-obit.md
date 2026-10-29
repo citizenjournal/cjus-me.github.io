@@ -1,4 +1,4 @@
 ---
 title: Seward County Obituaries
-redirect_to: https://www.citizenjournal.us/seward-county-obituaries-83/
+redirect_to: https://www.citizenjournal.us/seward-county-obituaries-84/
 ---
