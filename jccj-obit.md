@@ -1,4 +1,4 @@
 ---
 title: Geary County Obituaries
-redirect_to: https://www.citizenjournal.us/geary-county-obituaries-81/
+redirect_to: https://www.citizenjournal.us/geary-county-obituaries-82/
 ---
