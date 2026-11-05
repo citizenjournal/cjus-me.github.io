@@ -1,4 +1,4 @@
 ---
 title: Douglas County Obituaries
-redirect_to: https://www.citizenjournal.us/douglas-county-obituaries-114/
+redirect_to: https://www.citizenjournal.us/douglas-county-obituaries-115/
 ---
