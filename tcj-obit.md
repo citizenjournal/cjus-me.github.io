@@ -1,4 +1,4 @@
 ---
 title: Shawnee County Obituaries
-redirect_to: https://www.citizenjournal.us/shawnee-county-obituaries-125/
+redirect_to: https://www.citizenjournal.us/shawnee-county-obituaries-126/
 ---

@@ -1,4 +1,4 @@
 ---
 title: Douglas County Jail Logs
-redirect_to: https://www.citizenjournal.us/douglas-county-jail-logs-20/
+redirect_to: https://www.citizenjournal.us/douglas-county-jail-logs-21/
 ---

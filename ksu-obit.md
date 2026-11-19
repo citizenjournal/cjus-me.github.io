@@ -1,4 +1,4 @@
 ---
 title: Riley County Obituaries
-redirect_to: https://www.citizenjournal.us/riley-county-obituaries-125/
+redirect_to: https://www.citizenjournal.us/riley-county-obituaries-126/
 ---
